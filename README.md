@@ -1,1 +1,2 @@
-this is new file
+This is new file
+for Git_repo
